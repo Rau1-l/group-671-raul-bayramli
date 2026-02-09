@@ -63,6 +63,45 @@ public class Classwork_2 {
     System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADDDDDDDDDDDDDDDDDDDDDD!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
     //13 
     //14
+    int agef = 7;
+    if (agef >= 7) {
+    System.out.println("TI MALIIIIIIIIIIIIIIIIIIIIIS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+	} else {
+    System.out.println("TI TIPO KRUTOY VZROSLIY");
+	}
+    //15
+    //16
+    int rost = 150;
+    if (rost >= 150) {
+    System.out.println("TI METOR S KEPKOY XAXAXAXXAXXAXAXXAXAXAXAXAXAXAXAXX !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+    } else {
+    System.out.println("TI TIPO KRUTOY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+	}
+    //17
+    int poga = 101;
+    if (poga >= 100) {
+    System.out.println("TIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII KRRRRRRRUUUUUUUUUUUUUUTTTTTTTTTOOOOOOOOYYYYYYYY BOOOOOOOOLLLLLLSSSSSEEEEE 100 NABRAL !!!!!!!!!!!");		
+	} else {
+    System.out.println("CTOOOOOOOO TI NABRAL MENSE STA ???????????????7777");
+	}
+    //18
+    //19
+    //20
+    System.out.println("Загадай число от одного до десяти или я тебя заставлю !!!!");
+    int numb = 6;
+    if (numb == 8) {
+	System.out.println("ТЫ УГАДАЛ НИФИГА СЕБЕ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");	
+	} else {
+    System.out.println("ХАХАХАХХАХАХАХАХАХАХАХХАХАХАХА НЕ СМОГ НУ НЕ ПЛАЬ ПОЖАЛУЙСТА Я ЖЕ ТЕБЯ НЕ БЬЮ !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1");
+	}
+    //21
+    int check1 = 1;
+    int check2 = 1;
+    
+    if (check1 == check2) {
+    	System.out.println("Равны");
+    }else
+    System.out.println("НЕРАВНЫ !!!!!!!!!!!");
 	}
 	}
 	}
