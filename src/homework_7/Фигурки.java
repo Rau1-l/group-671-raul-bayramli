@@ -3,7 +3,7 @@ public class Фигурки {
         return сторона * сторона;
     }
 
-    public static double площадьПрямоугольника(double длина, double ширина) {
+    public static double plosadПрямоугольника(double длина, double ширина) {
         return длина * ширина;
     }
 
